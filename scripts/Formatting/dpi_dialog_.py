@@ -1,7 +1,7 @@
 #@ ImagePlus(label="Image to process: ") imp
 #@ BigDecimal(label="Final width (in): ", value=0) final_width
 #@ BigDecimal(label="Final height (in): ", value=0) final_height
-#@ BigDecimal(label="DPI: ") final_dpi
+#@ BigDecimal(label="DPI: ", value=300) final_dpi
 #@ UIService ui
 #@ LogService log
 
